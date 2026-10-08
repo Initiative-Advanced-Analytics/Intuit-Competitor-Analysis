@@ -1,0 +1,358 @@
+ADVERTISER,PRODUCT,DATE,Q,CHANNEL,SOURCE,SPEND,ADJUSTED_SPEND,RAW_CHANNEL_FACTOR,CORRECTION_FACTOR,CORRECTED_SPEND,FACTOR_BASIS,FACTOR_CONFIDENCE,IMPRESSIONS,PUBLISHERS
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Display,Online,75.74,75.74,2311.1151,4.5953,348.050844089805,QB ground-truth | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),93188.0,4.0
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Display,Online,641.59,641.59,2311.1151,4.5953,2948.3224327908374,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),681839.0,10.0
+Sage,QuickBooks,2026-02-01,2026Q1,Display,Online,354036.12,354036.12,30.7627,4.5724,1618791.3180909527,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),272007792.0,346.0
+Sage,QuickBooks,2026-01-01,2026Q1,Display,Online,130397.02,130397.02,30.7627,4.5724,596226.0683484282,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),171893674.0,536.0
+Netsuite,QuickBooks,2026-01-01,2026Q1,Display,Online,2547.36,2547.36,30.7627,4.5724,11647.524134125551,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),1093203.0,12.0
+Netsuite,QuickBooks,2025-09-01,2025Q3,Display,Online,0.0,0.0,64.3065,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+Xero,QuickBooks,2025-09-01,2025Q3,Display,Online,24193.18,24193.18,64.3065,4.9419,119560.63111425223,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),16366534.0,88.0
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Video,Online,114.5,114.5,20.9269,4.7985,549.4275404250503,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),34942.0,2.0
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Video,Online,2974.5,2974.5,22.5749,4.9419,14699.725180788273,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),900296.0,2.0
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Video,Online,7.96,7.96,13726.1359,4.5953,36.57888459142921,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),,1.0
+Sage,QuickBooks,2026-01-01,2026Q1,Video,Online,387990.42,387990.42,48.5452,4.5724,1774043.6297812278,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),94628472.0,98.0
+Sage,QuickBooks,2025-09-01,2025Q3,Video,Online,321611.72,321611.72,22.5749,4.9419,1589377.6765576154,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),71309072.0,110.0
+Zoho,QuickBooks,2025-07-01,2025Q3,Video,Online,14657.44,14657.44,22.5749,4.9419,72435.81773538185,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),3597468.0,6.0
+Sage,QuickBooks,2026-03-01,2026Q1,Video,Online,582528.17,582528.17,48.5452,4.5724,2663546.1493008416,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),126419730.0,33.0
+Zoho,QuickBooks,2025-11-01,2025Q4,Video,Online,52981.2,52981.2,20.9269,4.7985,254229.95986696662,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),11623254.0,16.0
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Social,Online,106171.97,106171.97,16.4954,16.4954,1751344.4355239987,QB ground-truth | seed (in-sample),high,17443591.0,2.0
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Social,Online,503017.56,503017.56,0.507,0.507,255035.68664048944,QB ground-truth | rolling,high,88503844.0,6.0
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Social,Online,744121.58,744121.58,16.4954,16.4954,12274550.321392039,QB ground-truth | rolling,high,121892026.0,4.0
+Sage,QuickBooks,2026-02-01,2026Q1,Social,Online,1471062.52,1471062.52,0.9575,0.9575,1408608.7491232238,QB-proxy | rolling,medium,356765628.0,6.0
+Zoho,QuickBooks,2025-05-01,2025Q2,Social,Online,22741.31,22741.31,16.4954,16.4954,375126.0028897106,QB-proxy | rolling,medium,5432391.0,6.0
+Sage,QuickBooks,2026-03-01,2026Q1,Social,Online,856991.79,856991.79,0.9575,0.9575,820608.3133168076,QB-proxy | rolling,medium,199005161.0,3.0
+Sage,QuickBooks,2025-12-01,2025Q4,Outdoor,Offline,179280.0,143424.0,1.0,1.0,143424.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-12-01,2025Q4,TV,Offline,834833.0,709608.05,1.0,1.0,709608.05,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-11-01,2025Q4,TV,Offline,660775.0,495581.25,1.0,1.0,495581.25,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-01-01,2026Q1,Radio,Offline,180428.0,135321.0,1.0,1.0,135321.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-01-01,2026Q1,Direct Mail,Offline,6411.0,6411.0,1.0,1.0,6411.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-02-01,2026Q1,Press,Offline,22494.0,31491.6,1.0,1.0,31491.6,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-04-01,2026Q2,Radio,Offline,63383.0,47537.25,1.0,1.0,47537.25,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-01-01,2025Q1,Radio,Offline,249.0,186.75,1.0,1.0,186.75,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-01-01,2025Q1,TV,Offline,44953.0,38210.05,1.0,1.0,38210.05,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-02-01,2025Q1,Press,Offline,11845.0,16583.0,1.0,1.0,16583.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-07-01,2025Q3,TV,Offline,639880.0,479910.0,1.0,1.0,479910.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-07-01,2025Q3,Press,Offline,103603.0,145044.2,1.0,1.0,145044.2,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-10-01,2025Q4,TV,Offline,315982.0,236986.5,1.0,1.0,236986.5,uncorrected (no ground truth),n/a,,
+Zoho,QuickBooks,2025-08-01,2025Q3,Display,Online,4578.58,4578.58,64.3065,4.9419,22626.95166187715,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),2569802.0,632.0
+Zoho,QuickBooks,2025-06-01,2025Q2,Display,Online,1748.48,1748.48,2311.1151,4.5953,8034.855292766601,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),934362.0,574.0
+Zoho,QuickBooks,2026-04-01,2026Q2,Display,Online,37573.32,37573.32,35.929,7.3936,277803.0742768886,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),50056956.0,146.0
+Netsuite,QuickBooks,2025-08-01,2025Q3,Display,Online,0.0,0.0,64.3065,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Video,Online,983.78,983.78,48.5452,4.5724,4498.2261214237615,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),279378.0,4.0
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Video,Online,58020.18,58020.18,22.5749,4.9419,286730.7785980394,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),14342684.0,6.0
+Sage,QuickBooks,2025-08-01,2025Q3,Video,Online,102614.24,102614.24,22.5749,4.9419,507110.81783003913,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),29252716.0,82.0
+Xero,QuickBooks,2026-01-01,2026Q1,Video,Online,1002658.42,1002658.42,48.5452,4.5724,4584545.625759293,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),215481240.0,8.0
+Zoho,QuickBooks,2025-09-01,2025Q3,Video,Online,25932.8,25932.8,22.5749,4.9419,128157.68470947929,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),7728982.0,2.0
+Zoho,QuickBooks,2025-06-01,2025Q2,Video,Online,1298.9,1298.9,13726.1359,4.5953,5968.883567312488,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),389728.0,2.0
+Netsuite,QuickBooks,2025-08-01,2025Q3,Video,Online,0.0,0.0,22.5749,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2026-01-01,2026Q1,Video,Online,23.17,23.17,48.5452,4.5724,105.94228306469797,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),6841.0,1.0
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Social,Online,460644.64,460644.64,16.4954,16.4954,7598497.296583605,QB ground-truth | rolling,high,73899734.0,4.0
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Social,Online,428185.47,428185.47,16.4954,16.4954,7063071.734062465,QB ground-truth | rolling,high,72039239.0,3.0
+Sage,QuickBooks,2025-10-01,2025Q4,Social,Online,1125618.88,1125618.88,0.507,0.507,570701.7145808958,QB-proxy | rolling,medium,213243920.0,8.0
+Sage,QuickBooks,2025-08-01,2025Q3,Social,Online,1086360.36,1086360.36,1.6217,1.6217,1761697.908573715,QB-proxy | rolling,medium,194105180.0,6.0
+Xero,QuickBooks,2025-04-01,2025Q2,Social,Online,1977966.73,1977966.73,16.4954,16.4954,32627265.239941385,QB-proxy | rolling,medium,425694161.0,4.0
+Zoho,QuickBooks,2025-08-01,2025Q3,Social,Online,17494.21,17494.21,1.6217,1.6217,28369.51190777006,QB-proxy | rolling,medium,3673542.0,6.0
+Zoho,QuickBooks,2025-06-01,2025Q2,Social,Online,21667.4,21667.4,16.4954,16.4954,357411.47519701003,QB-proxy | rolling,medium,5256394.0,4.0
+Netsuite,QuickBooks,2025-08-01,2025Q3,Social,Online,10982.32,10982.32,1.6217,1.6217,17809.495714007164,QB-proxy | rolling,medium,3165516.0,3.0
+Zoho,QuickBooks,2026-01-01,2026Q1,Social,Online,61056.56,61056.56,0.9575,0.9575,58464.411565163835,QB-proxy | rolling,medium,14286643.0,8.0
+QuickBooks,QuickBooks,2025-01-01,2025Q1,TV,Offline,1161812.0,871359.0,1.0,1.0,871359.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-02-01,2025Q1,Radio,Offline,202064.0,151548.0,1.0,1.0,151548.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-03-01,2025Q1,TV,Offline,881102.0,792991.8,1.0,1.0,792991.8,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Radio,Offline,146119.0,87671.4,1.0,1.0,87671.4,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-08-01,2025Q3,Outdoor,Offline,273578.0,218862.4,1.0,1.0,218862.4,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-08-01,2025Q3,TV,Offline,98569.0,83783.65,1.0,1.0,83783.65,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-09-01,2025Q3,Press,Offline,10355.0,14497.0,1.0,1.0,14497.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Display,Online,2564.72,2564.72,30.7627,4.5724,11726.900829593964,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),1314542.0,54.0
+Sage,QuickBooks,2025-03-01,2025Q1,Display,Online,69087.67,69087.67,2311.1151,4.5953,317481.14417346055,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),33890634.0,355.0
+Xero,QuickBooks,2025-03-01,2025Q1,Display,Online,5095.67,5095.67,2311.1151,4.5953,23416.322216835186,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),2403553.0,377.0
+Zoho,QuickBooks,2025-07-01,2025Q3,Display,Online,5275.42,5275.42,64.3065,4.9419,26070.675479318903,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),2612804.0,448.0
+Xero,QuickBooks,2025-06-01,2025Q2,Video,Online,69847.32,69847.32,13726.1359,4.5953,320971.99212319416,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),19665830.0,16.0
+Zoho,QuickBooks,2026-03-01,2026Q1,Video,Online,167805.19,167805.19,48.5452,4.5724,767270.821696393,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),38607665.0,4.0
+Netsuite,QuickBooks,2026-02-01,2026Q1,Video,Online,0.0,0.0,48.5452,4.5724,0.0,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2025-10-01,2025Q4,Video,Online,0.0,0.0,20.9269,4.7985,0.0,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),0.0,0.0
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Social,Online,580802.82,580802.82,0.507,0.507,294473.7078392106,QB ground-truth | rolling,high,90752860.0,4.0
+Sage,QuickBooks,2025-12-01,2025Q4,Social,Online,1159266.14,1159266.14,0.507,0.507,587761.2622787358,QB-proxy | rolling,medium,306815406.0,8.0
+Xero,QuickBooks,2025-03-01,2025Q1,Social,Online,1409917.86,1409917.86,16.4954,16.4954,23257096.940528695,QB-proxy | seed (in-sample),medium,348272909.0,4.0
+Xero,QuickBooks,2025-07-01,2025Q3,Social,Online,3971340.52,3971340.52,1.6217,1.6217,6440130.315798755,QB-proxy | rolling,medium,889346022.0,6.0
+Zoho,QuickBooks,2025-07-01,2025Q3,Social,Online,13232.55,13232.55,1.6217,1.6217,21458.584571418924,QB-proxy | rolling,medium,3000084.0,6.0
+Xero,QuickBooks,2026-03-01,2026Q1,Social,Online,1964519.82,1964519.82,0.9575,0.9575,1881116.3826524387,QB-proxy | rolling,medium,439345704.0,4.0
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Social,Online,1526.05,1526.05,1.4867,1.4867,2268.720003497841,QB ground-truth | rolling,high,393819.0,2.0
+Netsuite,QuickBooks,2025-09-01,2025Q3,Social,Online,13579.15,13579.15,1.6217,1.6217,22020.64898171428,QB-proxy | rolling,medium,3996449.0,3.0
+QuickBooks,QuickBooks,2025-12-01,2025Q4,TV,Offline,497926.0,373444.5,1.0,1.0,373444.5,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-01-01,2026Q1,TV,Offline,688030.0,516022.5,1.0,1.0,516022.5,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-02-01,2026Q1,TV,Offline,509240.0,432854.0,1.0,1.0,432854.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-04-01,2026Q2,Radio,Offline,90574.0,67930.5,1.0,1.0,67930.5,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Radio,Offline,262878.0,157726.8,1.0,1.0,157726.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-03-01,2025Q1,Press,Offline,31319.0,43846.6,1.0,1.0,43846.6,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-03-01,2025Q1,Radio,Offline,189687.0,142265.25,1.0,1.0,142265.25,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Radio,Offline,93610.0,56166.0,1.0,1.0,56166.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-05-01,2025Q2,Press,Offline,14952.0,20932.8,1.0,1.0,20932.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-07-01,2025Q3,Outdoor,Offline,285951.0,228760.8,1.0,1.0,228760.8,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-07-01,2025Q3,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-07-01,2025Q3,Radio,Offline,212034.0,159025.5,1.0,1.0,159025.5,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Radio,Offline,173145.0,103887.0,1.0,1.0,103887.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-09-01,2025Q3,Outdoor,Offline,585022.0,468017.6,1.0,1.0,468017.6,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-08-01,2025Q3,Display,Online,94046.82,94046.82,64.3065,4.9419,464771.3592627542,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),141289062.0,476.0
+Xero,QuickBooks,2026-01-01,2026Q1,Display,Online,87284.7,87284.7,30.7627,4.5724,399099.7149165836,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),103855948.0,16.0
+Xero,QuickBooks,2025-11-01,2025Q4,Display,Online,6601.7,6601.7,71.4527,4.7985,31678.216538201355,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),7209366.0,48.0
+Xero,QuickBooks,2025-10-01,2025Q4,Display,Online,290699.04,290699.04,71.4527,4.7985,1394917.541931208,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),120044148.0,84.0
+Zoho,QuickBooks,2026-01-01,2026Q1,Display,Online,3871.98,3871.98,30.7627,4.5724,17704.203762660734,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),2591598.0,110.0
+Zoho,QuickBooks,2025-11-01,2025Q4,Display,Online,4241.46,4241.46,71.4527,4.7985,20352.619524988946,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),2770304.0,528.0
+Xero,QuickBooks,2026-03-01,2026Q1,Display,Online,55024.54,55024.54,30.7627,4.5724,251593.6725155285,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),36938644.0,71.0
+Netsuite,QuickBooks,2025-05-01,2025Q2,Display,Online,0.0,0.0,2311.1151,4.5953,0.0,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),0.0,0.0
+Xero,QuickBooks,2025-04-01,2025Q2,Display,Online,32013.53,32013.53,2311.1151,4.5953,147112.96724048452,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),38902303.0,268.0
+Zoho,QuickBooks,2026-02-01,2026Q1,Display,Online,9974.26,9974.26,30.7627,4.5724,45606.209593478394,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),13441340.0,98.0
+Zoho,QuickBooks,2025-12-01,2025Q4,Display,Online,4122.7,4122.7,71.4527,4.7985,19782.7504009638,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),3008390.0,276.0
+Xero,QuickBooks,2026-04-01,2026Q2,Display,Online,49785.46,49785.46,35.929,7.3936,368095.06964753364,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),34937152.0,68.0
+Netsuite,QuickBooks,2026-02-01,2026Q1,Display,Online,361.73,361.73,30.7627,4.5724,1653.970740310453,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),160084.0,4.0
+Netsuite,QuickBooks,2025-11-01,2025Q4,Display,Online,1684.69,1684.69,71.4527,4.7985,8083.974524704613,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),724528.0,6.0
+Sage,QuickBooks,2026-02-01,2026Q1,Video,Online,503685.04,503685.04,48.5452,4.5724,2303044.587101153,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),112210434.0,56.0
+Sage,QuickBooks,2025-12-01,2025Q4,Video,Online,228603.62,228603.62,20.9269,4.7985,1096953.0538765315,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),46116974.0,48.0
+Sage,QuickBooks,2025-11-01,2025Q4,Video,Online,426739.58,426739.58,20.9269,4.7985,2047707.2300560614,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),85690984.0,20.0
+Sage,QuickBooks,2025-06-01,2025Q2,Video,Online,112493.5,112493.5,13726.1359,4.5953,516945.57208366104,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),28839336.0,88.0
+Xero,QuickBooks,2026-02-01,2026Q1,Video,Online,940947.66,940947.66,48.5452,4.5724,4302379.94582586,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),197888840.0,12.0
+Zoho,QuickBooks,2026-01-01,2026Q1,Video,Online,98926.02,98926.02,48.5452,4.5724,452328.3734701758,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),23614982.0,8.0
+Zoho,QuickBooks,2025-12-01,2025Q4,Video,Online,75648.18,75648.18,20.9269,4.7985,362997.32292603917,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),20959820.0,8.0
+Zoho,QuickBooks,2025-08-01,2025Q3,Video,Online,31744.44,31744.44,22.5749,4.9419,156878.31367222138,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),9350796.0,6.0
+Zoho,QuickBooks,2026-04-01,2026Q2,Video,Online,174569.78,174569.78,30.0811,7.3936,1290703.6578039979,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),43185281.0,3.0
+Sage,QuickBooks,2026-04-01,2026Q2,Video,Online,13235.29,13235.29,30.0811,7.3936,97856.78377492758,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),3866586.0,17.0
+Netsuite,QuickBooks,2025-05-01,2025Q2,Video,Online,0.0,0.0,13726.1359,4.5953,0.0,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2026-04-01,2026Q2,Video,Online,4.01,4.01,30.0811,7.3936,29.6484401125672,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),0.0,1.0
+Netsuite,QuickBooks,2025-11-01,2025Q4,Video,Online,0.0,0.0,20.9269,4.7985,0.0,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),0.0,0.0
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Video,Online,3.07,3.07,30.0811,7.3936,22.698431707127508,QB ground-truth | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),0.0,1.0
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Social,Online,1239332.0,1239332.0,1.6217,1.6217,2009764.5982116645,QB ground-truth | rolling,high,199473276.0,6.0
+Sage,QuickBooks,2025-03-01,2025Q1,Social,Online,158186.2,158186.2,16.4954,16.4954,2609337.6730853384,QB-proxy | seed (in-sample),medium,32511511.0,4.0
+Sage,QuickBooks,2025-11-01,2025Q4,Social,Online,1058157.54,1058157.54,0.507,0.507,536498.0395271115,QB-proxy | rolling,medium,249986554.0,8.0
+Sage,QuickBooks,2025-07-01,2025Q3,Social,Online,2329476.96,2329476.96,1.6217,1.6217,3777599.8090565964,QB-proxy | rolling,medium,415395176.0,6.0
+Xero,QuickBooks,2026-02-01,2026Q1,Social,Online,5218994.84,5218994.84,0.9575,0.9575,4997423.082502951,QB-proxy | rolling,medium,1111695726.0,8.0
+Xero,QuickBooks,2026-01-01,2026Q1,Social,Online,4771130.18,4771130.18,0.9575,0.9575,4568572.459281921,QB-proxy | rolling,medium,1028087192.0,8.0
+Xero,QuickBooks,2025-10-01,2025Q4,Social,Online,3681455.14,3681455.14,0.507,0.507,1866540.0855311276,QB-proxy | rolling,medium,784816310.0,8.0
+Zoho,QuickBooks,2025-03-01,2025Q1,Social,Online,17771.96,17771.96,16.4954,16.4954,293154.80587159755,QB-proxy | seed (in-sample),medium,3720973.0,3.0
+Zoho,QuickBooks,2025-04-01,2025Q2,Social,Online,7019.94,7019.94,16.4954,16.4954,115796.40894590483,QB-proxy | rolling,medium,1498874.0,2.0
+Netsuite,QuickBooks,2026-02-01,2026Q1,Social,Online,107393.25,107393.25,0.9575,0.9575,102833.88332589538,QB-proxy | rolling,medium,25432224.0,3.0
+Netsuite,QuickBooks,2025-12-01,2025Q4,Social,Online,1034.17,1034.17,0.507,0.507,524.3360809372042,QB-proxy | rolling,medium,995842.0,3.0
+Netsuite,QuickBooks,2025-10-01,2025Q4,Social,Online,21352.44,21352.44,0.507,0.507,10825.932591398701,QB-proxy | rolling,medium,5965069.0,3.0
+Sage,QuickBooks,2025-12-01,2025Q4,Press,Offline,20954.0,29335.6,1.0,1.0,29335.6,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Radio,Offline,125084.0,75050.4,1.0,1.0,75050.4,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-02-01,2026Q1,Press,Offline,2362.0,3306.8,1.0,1.0,3306.8,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Radio,Offline,56313.0,33787.8,1.0,1.0,33787.8,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-03-01,2026Q1,Radio,Offline,108573.0,81429.75,1.0,1.0,81429.75,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-03-01,2026Q1,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-01-01,2025Q1,Radio,Offline,288509.0,216381.75,1.0,1.0,216381.75,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-02-01,2025Q1,Radio,Offline,4300.0,3225.0,1.0,1.0,3225.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-01-01,2025Q1,TV,Offline,501228.0,451105.2,1.0,1.0,451105.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-04-01,2025Q2,Outdoor,Offline,23060.0,18448.0,1.0,1.0,18448.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-05-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-06-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-06-01,2025Q2,TV,Offline,518374.0,466536.6,1.0,1.0,466536.6,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-05-01,2025Q2,Display,Online,67256.54,67256.54,2311.1151,4.5953,309066.48425613594,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),41791198.0,622.0
+Zoho,QuickBooks,2025-10-01,2025Q4,Display,Online,23200.98,23200.98,71.4527,4.7985,111329.75874978851,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),8382624.0,1068.0
+Zoho,QuickBooks,2025-04-01,2025Q2,Display,Online,1016.05,1016.05,2311.1151,4.5953,4669.0924232564885,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),548605.0,335.0
+Netsuite,QuickBooks,2026-04-01,2026Q2,Display,Online,1953.55,1953.55,35.929,7.3936,14443.818000475225,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),770252.0,11.0
+Netsuite,QuickBooks,2025-12-01,2025Q4,Display,Online,6196.95,6196.95,71.4527,4.7985,29736.026171502323,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),2668269.0,26.0
+Netsuite,QuickBooks,2025-07-01,2025Q3,Display,Online,0.0,0.0,64.3065,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+Xero,QuickBooks,2025-12-01,2025Q4,Display,Online,92084.1,92084.1,71.4527,4.7985,441864.98318999464,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),60839786.0,32.0
+Netsuite,QuickBooks,2026-03-01,2026Q1,Display,Online,2060.65,2060.65,30.7627,4.5724,9422.09605512602,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),849285.0,6.0
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Video,Online,85.69,85.69,13726.1359,4.5953,393.77444982909157,QB ground-truth | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),23966.0,2.0
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Video,Online,43.16,43.16,48.5452,4.5724,197.3443650009652,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),11980.0,2.0
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Video,Online,3406.28,3406.28,20.9269,4.7985,16345.01347073398,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),913942.0,4.0
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Video,Online,78834.26,78834.26,13726.1359,4.5953,362270.0123606437,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),15163434.0,4.0
+Sage,QuickBooks,2025-07-01,2025Q3,Video,Online,223800.46,223800.46,22.5749,4.9419,1106002.7760410148,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),62998860.0,100.0
+Sage,QuickBooks,2025-05-01,2025Q2,Video,Online,112283.64,112283.64,13726.1359,4.5953,515981.1946062292,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),25236482.0,90.0
+Zoho,QuickBooks,2026-02-01,2026Q1,Video,Online,699022.48,699022.48,48.5452,4.5724,3196203.6014133436,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),143628498.0,8.0
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Social,Online,125570.2,125570.2,0.9575,0.9575,120239.1332417014,QB ground-truth | rolling,high,23639736.0,8.0
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Social,Online,1346672.6,1346672.6,1.6217,1.6217,2183833.6433350043,QB ground-truth | rolling,high,216700038.0,6.0
+Sage,QuickBooks,2025-06-01,2025Q2,Social,Online,905456.94,905456.94,16.4954,16.4954,14935834.509575238,QB-proxy | rolling,medium,165477314.0,8.0
+Sage,QuickBooks,2025-05-01,2025Q2,Social,Online,668969.14,668969.14,16.4954,16.4954,11034884.074170187,QB-proxy | rolling,medium,117400444.0,8.0
+Sage,QuickBooks,2025-04-01,2025Q2,Social,Online,432692.4,432692.4,16.4954,16.4954,7137415.148588882,QB-proxy | rolling,medium,73717271.0,4.0
+Xero,QuickBooks,2025-09-01,2025Q3,Social,Online,3089069.0,3089069.0,1.6217,1.6217,5009393.380977098,QB-proxy | rolling,medium,717600494.0,8.0
+Zoho,QuickBooks,2026-02-01,2026Q1,Social,Online,68024.49,68024.49,0.9575,0.9575,65136.51898944801,QB-proxy | rolling,medium,14549830.0,8.0
+Zoho,QuickBooks,2025-10-01,2025Q4,Social,Online,12114.48,12114.48,0.507,0.507,6142.180652883125,QB-proxy | rolling,medium,3205674.0,6.0
+Zoho,QuickBooks,2026-04-01,2026Q2,Social,Online,11504.36,11504.36,1.4867,1.4867,17103.09076336976,QB-proxy | rolling,medium,8029786.0,3.0
+Sage,QuickBooks,2026-04-01,2026Q2,Social,Online,936022.02,936022.02,1.4867,1.4867,1391548.036098723,QB-proxy | rolling,medium,189903228.0,3.0
+Netsuite,QuickBooks,2026-04-01,2026Q2,Social,Online,156174.02,156174.02,1.4867,1.4867,232177.92549436248,QB-proxy | rolling,medium,34296032.0,4.0
+Netsuite,QuickBooks,2026-03-01,2026Q1,Social,Online,92490.72,92490.72,0.9575,0.9575,88564.0383283685,QB-proxy | rolling,medium,23408582.0,4.0
+Sage,QuickBooks,2025-11-01,2025Q4,Press,Offline,128870.0,180418.0,1.0,1.0,180418.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-11-01,2025Q4,Radio,Offline,138050.0,103537.5,1.0,1.0,103537.5,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-01-01,2026Q1,TV,Offline,1038144.0,882422.4,1.0,1.0,882422.4,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Radio,Offline,232115.0,139269.0,1.0,1.0,139269.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-02-01,2026Q1,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-02-01,2026Q1,Radio,Offline,59072.0,44304.0,1.0,1.0,44304.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-03-01,2026Q1,Outdoor,Offline,281913.0,225530.4,1.0,1.0,225530.4,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Radio,Offline,141573.0,84943.8,1.0,1.0,84943.8,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Radio,Offline,265569.0,159341.4,1.0,1.0,159341.4,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-02-01,2025Q1,TV,Offline,532684.0,479415.6,1.0,1.0,479415.6,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-03-01,2025Q1,TV,Offline,704732.0,528549.0,1.0,1.0,528549.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-03-01,2025Q1,Radio,Offline,12953.0,9714.75,1.0,1.0,9714.75,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-04-01,2025Q2,Press,Offline,13877.0,19427.8,1.0,1.0,19427.8,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Radio,Offline,112013.0,67207.8,1.0,1.0,67207.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-09-01,2025Q3,Radio,Offline,209854.0,157390.5,1.0,1.0,157390.5,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-10-01,2025Q4,Outdoor,Offline,283130.0,226504.0,1.0,1.0,226504.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Display,Online,11225.54,11225.54,30.7627,4.5724,51327.55011800128,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),6144708.0,168.0
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Display,Online,292.82,292.82,71.4527,4.7985,1405.0949553472774,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),156998.0,72.0
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Display,Online,1317.42,1317.42,64.3065,4.9419,6510.577222280749,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),640894.0,122.0
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Display,Online,284.9,284.9,64.3065,4.9419,1407.9514889919578,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),415208.0,4.0
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Display,Online,2091.9,2091.9,2311.1151,4.5953,9612.98601467472,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),3501090.0,2.0
+Xero,QuickBooks,2026-02-01,2026Q1,Display,Online,85062.06,85062.06,30.7627,4.5724,388936.9373580631,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),68179562.0,26.0
+Xero,QuickBooks,2025-08-01,2025Q3,Display,Online,24595.44,24595.44,64.3065,4.9419,121548.5657087131,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),14169190.0,60.0
+Zoho,QuickBooks,2025-05-01,2025Q2,Display,Online,5755.74,5755.74,2311.1151,4.5953,26449.56648219507,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),2524118.0,650.0
+Sage,QuickBooks,2026-03-01,2026Q1,Display,Online,175198.61,175198.61,30.7627,4.5724,801076.4235287709,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),99046027.0,124.0
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Display,Online,1023.78,1023.78,30.7627,4.5724,4681.121733102135,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),502731.0,21.0
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Display,Online,889.46,889.46,2311.1151,4.5953,4087.368679483998,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),1466254.0,4.0
+Sage,QuickBooks,2025-04-01,2025Q2,Display,Online,104290.47,104290.47,2311.1151,4.5953,479249.8826778782,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),63357406.0,332.0
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Display,Online,14395.81,14395.81,35.929,7.3936,106437.23457777956,QB ground-truth | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),7183808.0,83.0
+Netsuite,QuickBooks,2025-10-01,2025Q4,Display,Online,0.0,0.0,71.4527,4.7985,0.0,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),0.0,0.0
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Video,Online,143.0,143.0,20.9269,4.7985,686.1846138059581,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),37730.0,4.0
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Video,Online,908.24,908.24,13726.1359,4.5953,4173.669113231113,QB ground-truth | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),254888.0,2.0
+Xero,QuickBooks,2025-11-01,2025Q4,Video,Online,554913.24,554913.24,20.9269,4.7985,2662747.7432532376,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),102662296.0,6.0
+Xero,QuickBooks,2025-04-01,2025Q2,Video,Online,381212.58,381212.58,13726.1359,4.5953,1751800.3729423336,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),83704342.0,6.0
+Zoho,QuickBooks,2025-10-01,2025Q4,Video,Online,8261.54,8261.54,20.9269,4.7985,39642.94849190542,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),2456680.0,2.0
+Zoho,QuickBooks,2025-04-01,2025Q2,Video,Online,37735.52,37735.52,13726.1359,4.5953,173407.4410901468,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),5380210.0,17.0
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Video,Online,0.0,0.0,48.5452,4.5724,0.0,QB ground-truth | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2025-07-01,2025Q3,Video,Online,0.0,0.0,22.5749,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Video,Online,741.12,741.12,22.5749,4.9419,3662.551798953036,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),216996.0,2.0
+Xero,QuickBooks,2025-12-01,2025Q4,Video,Online,230666.58,230666.58,20.9269,4.7985,1106852.1546520358,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),49427994.0,8.0
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Social,Online,7011.04,7011.04,0.9575,0.9575,6713.387194755588,QB ground-truth | rolling,high,1604330.0,4.0
+Sage,QuickBooks,2026-01-01,2026Q1,Social,Online,2309554.3,2309554.3,0.9575,0.9575,2211502.4679951486,QB-proxy | rolling,medium,518511870.0,8.0
+Xero,QuickBooks,2025-11-01,2025Q4,Social,Online,3715398.62,3715398.62,0.507,0.507,1883749.8201749197,QB-proxy | rolling,medium,762617548.0,8.0
+Xero,QuickBooks,2025-05-01,2025Q2,Social,Online,3648959.9,3648959.9,16.4954,16.4954,60190892.34489297,QB-proxy | rolling,medium,741053522.0,6.0
+Netsuite,QuickBooks,2025-11-01,2025Q4,Social,Online,7477.72,7477.72,0.507,0.507,3791.290019190027,QB-proxy | rolling,medium,2481546.0,3.0
+Netsuite,QuickBooks,2025-07-01,2025Q3,Social,Online,8069.96,8069.96,1.6217,1.6217,13086.662748145132,QB-proxy | rolling,medium,2149856.0,3.0
+Sage,QuickBooks,2025-12-01,2025Q4,Radio,Offline,170700.0,128025.0,1.0,1.0,128025.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Radio,Offline,82.0,49.2,1.0,1.0,49.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-11-01,2025Q4,Outdoor,Offline,256475.0,205180.0,1.0,1.0,205180.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-01-01,2026Q1,Radio,Offline,53191.0,39893.25,1.0,1.0,39893.25,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-04-01,2026Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-04-01,2026Q2,Outdoor,Offline,330296.0,264236.8,1.0,1.0,264236.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-03-01,2026Q1,TV,Offline,619569.0,526633.65,1.0,1.0,526633.65,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-02-01,2025Q1,Outdoor,Offline,113363.0,90690.4,1.0,1.0,90690.4,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-02-01,2025Q1,TV,Offline,13940.0,11849.0,1.0,1.0,11849.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-03-01,2025Q1,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Radio,Offline,90057.0,54034.2,1.0,1.0,54034.2,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-04-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-04-01,2025Q2,TV,Offline,422302.0,380071.8,1.0,1.0,380071.8,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-06-01,2025Q2,TV,Offline,897692.0,673269.0,1.0,1.0,673269.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-07-01,2025Q3,Radio,Offline,187694.0,140770.5,1.0,1.0,140770.5,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-07-01,2025Q3,TV,Offline,526782.0,474103.8,1.0,1.0,474103.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-08-01,2025Q3,Radio,Offline,368731.0,276548.25,1.0,1.0,276548.25,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-10-01,2025Q4,Radio,Offline,147722.0,110791.5,1.0,1.0,110791.5,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Display,Online,10007.66,10007.66,71.4527,4.7985,48021.694490918424,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),5019038.0,218.0
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Display,Online,674.12,674.12,64.3065,4.9419,3331.4435161785145,QB ground-truth | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),346030.0,98.0
+Sage,QuickBooks,2025-09-01,2025Q3,Display,Online,98953.04,98953.04,64.3065,4.9419,489017.4798465454,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),151280856.0,426.0
+Sage,QuickBooks,2025-05-01,2025Q2,Display,Online,234836.16,234836.16,2311.1151,4.5953,1079151.356097287,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),148947688.0,392.0
+Xero,QuickBooks,2025-07-01,2025Q3,Display,Online,23121.28,23121.28,64.3065,4.9419,114263.39278132671,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),13180408.0,348.0
+Zoho,QuickBooks,2026-03-01,2026Q1,Display,Online,23640.53,23640.53,30.7627,4.5724,108093.72986877359,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),29274202.0,131.0
+Sage,QuickBooks,2025-12-01,2025Q4,Display,Online,50451.68,50451.68,71.4527,4.7985,242092.07382280965,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),64439084.0,194.0
+Sage,QuickBooks,2025-10-01,2025Q4,Display,Online,55956.62,55956.62,71.4527,4.7985,268507.4942978095,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),63822542.0,238.0
+Sage,QuickBooks,2025-07-01,2025Q3,Display,Online,313712.0,313712.0,64.3065,4.9419,1550337.9344143388,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),299617682.0,396.0
+Sage,QuickBooks,2025-06-01,2025Q2,Display,Online,142890.94,142890.94,2311.1151,4.5953,656632.0607312608,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),86480062.0,382.0
+Zoho,QuickBooks,2025-03-01,2025Q1,Display,Online,2275.78,2275.78,2311.1151,4.5953,10457.976630085775,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),854857.0,320.0
+Sage,QuickBooks,2026-04-01,2026Q2,Display,Online,12774.59,12774.59,35.929,7.3936,94450.54029366579,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),8303159.0,121.0
+Sage,QuickBooks,2025-10-01,2025Q4,Video,Online,831800.2,831800.2,20.9269,4.7985,3991388.1049001305,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),170827018.0,10.0
+Xero,QuickBooks,2025-09-01,2025Q3,Video,Online,35042.44,35042.44,22.5749,4.9419,173176.7482481971,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),9673968.0,6.0
+Xero,QuickBooks,2025-07-01,2025Q3,Video,Online,78556.18,78556.18,22.5749,4.9419,388217.9382257644,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),21776980.0,8.0
+Xero,QuickBooks,2026-03-01,2026Q1,Video,Online,432402.9,432402.9,48.5452,4.5724,1977114.8221750665,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),87934720.0,5.0
+Netsuite,QuickBooks,2025-12-01,2025Q4,Video,Online,0.0,0.0,20.9269,4.7985,0.0,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2025-09-01,2025Q3,Video,Online,0.0,0.0,22.5749,4.9419,0.0,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),0.0,0.0
+Netsuite,QuickBooks,2025-06-01,2025Q2,Video,Online,0.0,0.0,13726.1359,4.5953,0.0,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),0.0,0.0
+Xero,QuickBooks,2025-10-01,2025Q4,Video,Online,148235.42,148235.42,20.9269,4.7985,711306.7442312168,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),30703724.0,8.0
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Social,Online,2090633.38,2090633.38,1.6217,1.6217,3390278.759011785,QB ground-truth | rolling,high,336067058.0,4.0
+Sage,QuickBooks,2025-09-01,2025Q3,Social,Online,2562024.6,2562024.6,1.6217,1.6217,4154711.0385493157,QB-proxy | rolling,medium,467922750.0,8.0
+Xero,QuickBooks,2025-08-01,2025Q3,Social,Online,4245446.1,4245446.1,1.6217,1.6217,6884634.041076788,QB-proxy | rolling,medium,899676988.0,8.0
+Xero,QuickBooks,2025-06-01,2025Q2,Social,Online,4170364.0,4170364.0,16.4954,16.4954,68791638.56062579,QB-proxy | rolling,medium,857359500.0,6.0
+Zoho,QuickBooks,2025-12-01,2025Q4,Social,Online,40431.1,40431.1,0.507,0.507,20499.032578763836,QB-proxy | rolling,medium,8356774.0,10.0
+Zoho,QuickBooks,2025-11-01,2025Q4,Social,Online,11549.66,11549.66,0.507,0.507,5855.810418555159,QB-proxy | rolling,medium,3722208.0,8.0
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Social,Online,2136.83,2136.83,0.9575,0.9575,2046.111156029574,QB ground-truth | rolling,high,691713.0,2.0
+Netsuite,QuickBooks,2026-01-01,2026Q1,Social,Online,58467.57,58467.57,0.9575,0.9575,55985.3368040228,QB-proxy | rolling,medium,14568133.0,4.0
+Xero,QuickBooks,2025-12-01,2025Q4,Radio,Offline,17136.0,12852.0,1.0,1.0,12852.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-01-01,2026Q1,Press,Offline,37229.0,52120.6,1.0,1.0,52120.6,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-02-01,2026Q1,Radio,Offline,115993.0,86994.75,1.0,1.0,86994.75,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-02-01,2026Q1,Outdoor,Offline,137388.0,109910.4,1.0,1.0,109910.4,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2026-03-01,2026Q1,Press,Offline,9045.0,12663.0,1.0,1.0,12663.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-01-01,2025Q1,Press,Offline,53228.0,74519.2,1.0,1.0,74519.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-01-01,2025Q1,Outdoor,Offline,43907.0,35125.6,1.0,1.0,35125.6,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-01-01,2025Q1,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-02-01,2025Q1,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-03-01,2025Q1,TV,Offline,116686.0,99183.1,1.0,1.0,99183.1,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-04-01,2025Q2,TV,Offline,637992.0,478494.0,1.0,1.0,478494.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-05-01,2025Q2,Outdoor,Offline,0.0,0.0,1.0,1.0,0.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-05-01,2025Q2,TV,Offline,512001.0,460800.9,1.0,1.0,460800.9,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-06-01,2025Q2,Radio,Offline,227012.0,170259.0,1.0,1.0,170259.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-05-01,2025Q2,Radio,Offline,228048.0,171036.0,1.0,1.0,171036.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Display,Online,355.14,355.14,71.4527,4.7985,1704.1370891401955,QB ground-truth | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),172836.0,46.0
+Sage,QuickBooks,2025-11-01,2025Q4,Display,Online,56133.58,56133.58,71.4527,4.7985,269356.6357611598,QB-proxy | rolling | capped@Search 4.80x,low (capped - no credible Display/Video volume),64654208.0,292.0
+Xero,QuickBooks,2025-06-01,2025Q2,Display,Online,99114.46,99114.46,2311.1151,4.5953,455464.37106555613,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),50086032.0,512.0
+Zoho,QuickBooks,2025-09-01,2025Q3,Display,Online,23388.54,23388.54,64.3065,4.9419,115584.16889557027,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),7906770.0,966.0
+Netsuite,QuickBooks,2025-06-01,2025Q2,Display,Online,0.0,0.0,2311.1151,4.5953,0.0,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),0.0,0.0
+Sage,QuickBooks,2025-03-01,2025Q1,Video,Online,72646.74,72646.74,13726.1359,4.5953,333836.27115622663,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),12905017.0,12.0
+Sage,QuickBooks,2025-04-01,2025Q2,Video,Online,45329.73,45329.73,13726.1359,4.5953,208305.3972651566,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),10985853.0,38.0
+Xero,QuickBooks,2025-03-01,2025Q1,Video,Online,9873.0,9873.0,13726.1359,4.5953,45369.76477024882,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),2510755.0,4.0
+Xero,QuickBooks,2025-08-01,2025Q3,Video,Online,151190.06,151190.06,22.5749,4.9419,747168.3752115952,QB-proxy | rolling | capped@Search 4.94x,low (capped - no credible Display/Video volume),41007280.0,10.0
+Xero,QuickBooks,2025-05-01,2025Q2,Video,Online,183522.98,183522.98,13726.1359,4.5953,843349.9881024085,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),46746450.0,10.0
+Zoho,QuickBooks,2025-03-01,2025Q1,Video,Online,36002.99,36002.99,13726.1359,4.5953,165445.8814266809,QB-proxy | seed (in-sample) | capped@Search 4.60x,low (capped - no credible Display/Video volume),4970513.0,13.0
+Zoho,QuickBooks,2025-05-01,2025Q2,Video,Online,1468.22,1468.22,13726.1359,4.5953,6746.966072214597,QB-proxy | rolling | capped@Search 4.60x,low (capped - no credible Display/Video volume),422088.0,8.0
+Xero,QuickBooks,2026-04-01,2026Q2,Video,Online,161374.96,161374.96,30.0811,7.3936,1193146.0940718022,QB-proxy | rolling | capped@Search 7.39x,low (capped - no credible Display/Video volume),34673077.0,5.0
+Netsuite,QuickBooks,2026-03-01,2026Q1,Video,Online,2.45,2.45,48.5452,4.5724,11.202356215300389,QB-proxy | rolling | capped@Search 4.57x,low (capped - no credible Display/Video volume),0.0,1.0
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Social,Online,770031.64,770031.64,0.507,0.507,390414.8953414314,QB ground-truth | rolling,high,122824480.0,4.0
+Xero,QuickBooks,2025-12-01,2025Q4,Social,Online,3032271.92,3032271.92,0.507,0.507,1537396.7286507357,QB-proxy | rolling,medium,714724620.0,8.0
+Zoho,QuickBooks,2025-09-01,2025Q3,Social,Online,9312.24,9312.24,1.6217,1.6217,15101.207974982159,QB-proxy | rolling,medium,2073685.0,6.0
+Zoho,QuickBooks,2026-03-01,2026Q1,Social,Online,18862.46,18862.46,0.9575,0.9575,18061.656676554332,QB-proxy | rolling,medium,21935605.0,4.0
+Xero,QuickBooks,2026-04-01,2026Q2,Social,Online,2227391.71,2227391.71,1.4867,1.4867,3311377.8238604646,QB-proxy | rolling,medium,481201255.0,4.0
+Netsuite,QuickBooks,2025-05-01,2025Q2,Social,Online,6652.96,6652.96,16.4954,16.4954,109742.94322469238,QB-proxy | rolling,medium,2211550.0,3.0
+Netsuite,QuickBooks,2025-06-01,2025Q2,Social,Online,199.1,199.1,16.4954,16.4954,3284.225366759495,QB-proxy | rolling,medium,43278.0,2.0
+Xero,QuickBooks,2025-12-01,2025Q4,Press,Offline,38598.0,54037.2,1.0,1.0,54037.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-01-01,2026Q1,Outdoor,Offline,148839.0,119071.2,1.0,1.0,119071.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-04-01,2026Q2,TV,Offline,575831.0,489456.35,1.0,1.0,489456.35,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-03-01,2026Q1,Radio,Offline,108861.0,81645.75,1.0,1.0,81645.75,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2026-03-01,2026Q1,Press,Offline,17966.0,25152.4,1.0,1.0,25152.4,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Radio,Offline,96273.0,57763.8,1.0,1.0,57763.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-03-01,2025Q1,Outdoor,Offline,200510.0,160408.0,1.0,1.0,160408.0,uncorrected (no ground truth),n/a,,
+Xero,QuickBooks,2025-04-01,2025Q2,Radio,Offline,236410.0,177307.5,1.0,1.0,177307.5,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Radio,Offline,165132.0,99079.2,1.0,1.0,99079.2,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-08-01,2025Q3,Press,Offline,49031.0,68643.4,1.0,1.0,68643.4,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-09-01,2025Q3,TV,Offline,650396.0,487797.0,1.0,1.0,487797.0,uncorrected (no ground truth),n/a,,
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Radio,Offline,57266.0,34359.6,1.0,1.0,34359.6,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-10-01,2025Q4,Press,Offline,40027.0,56037.8,1.0,1.0,56037.8,uncorrected (no ground truth),n/a,,
+Sage,QuickBooks,2025-05-01,2025Q2,Digital,Online,0.0,11094.384,4.5953,4.5953,50982.43617449733,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Digital,Online,0.0,313592.52,4.9419,4.9419,1549747.4744497733,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2025-05-01,2025Q2,Digital,Online,0.0,334873.557,4.5953,4.5953,1538856.9339477876,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Digital,Online,0.0,302434.7745,4.7985,4.7985,1451231.3912012205,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2026-04-01,2026Q2,Digital,Online,0.0,25194.7425,7.3936,7.3936,186280.50228498795,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2025-09-01,2025Q3,Digital,Online,0.0,339149.703,4.9419,4.9419,1676048.8919972985,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Digital,Online,0.0,363726.174,4.5953,4.5953,1671444.4399030276,QB ground-truth | seed (in-sample),high,,
+Sage,QuickBooks,2025-11-01,2025Q4,Digital,Online,0.0,259241.815,4.7985,4.7985,1243970.2427142004,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Digital,Online,0.0,143813.433,4.7985,4.7985,690087.8670154827,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2025-01-01,2025Q1,Digital,Online,0.0,353768.0835,4.5953,4.5953,1625683.655587637,QB-proxy | seed (in-sample),medium,,
+Sage,QuickBooks,2025-01-01,2025Q1,Digital,Online,0.0,78462.048,4.5953,4.5953,360559.57268833905,QB-proxy | seed (in-sample),medium,,
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Digital,Online,0.0,347304.495,4.5724,4.5724,1588011.701291842,QB ground-truth | rolling,high,,
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Digital,Online,0.0,17907.534,7.3936,7.3936,132401.6083198905,QB ground-truth | rolling,high,,
+Sage,QuickBooks,2025-10-01,2025Q4,Digital,Online,0.0,208466.649,4.7985,4.7985,1000325.9233250855,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Digital,Online,0.0,30614.814,4.5953,4.5953,140685.3954892049,QB ground-truth | seed (in-sample),high,,
+Xero,QuickBooks,2025-04-01,2025Q2,Digital,Online,0.0,295411.029,4.5953,4.5953,1357513.308646526,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2025-02-01,2025Q1,Digital,Online,0.0,56055.132,4.5953,4.5953,257592.2367066998,QB-proxy | seed (in-sample),medium,,
+Xero,QuickBooks,2025-06-01,2025Q2,Digital,Online,0.0,337501.668,4.5953,4.5953,1550933.9903501077,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Digital,Online,0.0,282239.946,4.5953,4.5953,1296987.7401790468,QB ground-truth | rolling,high,,
+Sage,QuickBooks,2025-12-01,2025Q4,Digital,Online,0.0,535508.1045,4.7985,4.7985,2569632.320813239,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2026-01-01,2026Q1,Digital,Online,0.0,633533.486,4.5724,4.5724,2896762.36101756,QB-proxy | rolling,medium,,
+Xero,QuickBooks,2026-02-01,2026Q1,Digital,Online,0.0,62797.7655,4.5724,4.5724,287135.89332893933,QB-proxy | rolling,medium,,
+Xero,QuickBooks,2025-02-01,2025Q1,Digital,Online,0.0,343199.698,4.5953,4.5953,1577118.3599190146,QB-proxy | seed (in-sample),medium,,
+Sage,QuickBooks,2025-07-01,2025Q3,Digital,Online,0.0,272725.015,4.9419,4.9419,1347783.7520344125,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2026-02-01,2026Q1,Digital,Online,0.0,312898.856,4.5724,4.5724,1430695.6915395844,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2026-04-01,2026Q2,Digital,Online,0.0,435460.5345,7.3936,7.3936,3219632.313842831,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Digital,Online,0.0,29767.98,4.5953,4.5953,136793.9076557755,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2026-01-01,2026Q1,Digital,Online,0.0,21143.4225,4.5724,4.5724,96675.97977779474,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Digital,Online,0.0,35620.134,4.9419,4.9419,176031.66270057237,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2025-03-01,2025Q1,Digital,Online,0.0,495686.2365,4.5953,4.5953,2277845.431971531,QB-proxy | seed (in-sample),medium,,
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Digital,Online,0.0,197951.661,4.7985,4.7985,949869.8185701604,QB ground-truth | rolling,high,,
+Sage,QuickBooks,2025-03-01,2025Q1,Digital,Online,0.0,165970.7985,4.5953,4.5953,762691.7944571422,QB-proxy | seed (in-sample),medium,,
+Sage,QuickBooks,2025-08-01,2025Q3,Digital,Online,0.0,343353.981,4.9419,4.9419,1696826.0751150106,QB-proxy | rolling,medium,,
+Xero,QuickBooks,2025-07-01,2025Q3,Digital,Online,0.0,335558.529,4.9419,4.9419,1658301.6165303653,QB-proxy | rolling,medium,,
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Digital,Online,0.0,45020.214,4.5724,4.5724,205849.98943553207,QB ground-truth | rolling,high,,
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Digital,Online,0.0,306864.276,4.9419,4.9419,1516497.0667344304,QB ground-truth | rolling,high,,
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Digital,Online,0.0,546271.212,4.5953,4.5953,2510300.4546944927,QB ground-truth | seed (in-sample),high,,
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Digital,Online,0.0,403298.412,4.5953,4.5953,1853292.219655109,QB ground-truth | rolling,high,,
+Xero,QuickBooks,2026-03-01,2026Q1,Digital,Online,0.0,49869.1575,4.5724,4.5724,228021.25162119145,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2025-04-01,2025Q2,Digital,Online,0.0,20074.174,4.5953,4.5953,92247.59975053629,QB-proxy | rolling,medium,,
+Sage,QuickBooks,2026-03-01,2026Q1,Digital,Online,0.0,455249.966,4.5724,4.5724,2081580.5249532207,QB-proxy | rolling,medium,,
+Xero,QuickBooks,2025-12-01,2025Q4,Digital,Online,0.0,35451.276,4.7985,4.7985,170112.72818873028,QB-proxy | rolling,medium,,

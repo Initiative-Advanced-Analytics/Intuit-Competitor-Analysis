@@ -1,0 +1,279 @@
+ADVERTISER,PRODUCT,DATE,Q,CHANNEL,SOURCE,SPEND,ADJUSTED_SPEND,RAW_CHANNEL_FACTOR,CORRECTION_FACTOR,CORRECTED_SPEND,FACTOR_BASIS,FACTOR_CONFIDENCE,IMPRESSIONS,PUBLISHERS,ACTUAL_TACTIC
+QuickBooks,QuickBooks,2023-05-01,2023Q2,Digital,Intuit Actuals,82424.6725484643,82424.6725484643,1.0,1.0,82424.6725484643,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-05-01,2023Q2,Digital,Intuit Actuals,103049.6943910063,103049.6943910063,1.0,1.0,103049.6943910063,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-05-01,2023Q2,Digital,Intuit Actuals,520.205993999999,520.205993999999,1.0,1.0,520.205993999999,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-05-01,2023Q2,Social,Intuit Actuals,29118.858691999878,29118.858691999878,1.0,1.0,29118.858691999878,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-05-01,2023Q2,Unclassified,Intuit Actuals,11252.56455399998,11252.56455399998,1.0,1.0,11252.56455399998,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Digital,Intuit Actuals,294880.9489325235,294880.9489325235,1.0,1.0,294880.9489325235,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Digital,Intuit Actuals,6638.081621402,6638.081621402,1.0,1.0,6638.081621402,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Digital,Intuit Actuals,381002.91608893586,381002.91608893586,1.0,1.0,381002.91608893586,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Digital,Intuit Actuals,11317.23699044397,11317.23699044397,1.0,1.0,11317.23699044397,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Social,Intuit Actuals,222215.97281140136,222215.97281140136,1.0,1.0,222215.97281140136,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-06-01,2023Q2,Unclassified,Intuit Actuals,66375.15330599967,66375.15330599967,1.0,1.0,66375.15330599967,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Digital,Intuit Actuals,254430.08654655528,254430.08654655528,1.0,1.0,254430.08654655528,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Digital,Intuit Actuals,11184.875072221377,11184.875072221377,1.0,1.0,11184.875072221377,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Digital,Intuit Actuals,435285.15995108645,435285.15995108645,1.0,1.0,435285.15995108645,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Digital,Intuit Actuals,22069.90583286606,22069.90583286606,1.0,1.0,22069.90583286606,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Social,Intuit Actuals,296414.0724859573,296414.0724859573,1.0,1.0,296414.0724859573,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-07-01,2023Q3,Unclassified,Intuit Actuals,81158.14339599988,81158.14339599988,1.0,1.0,81158.14339599988,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-08-01,2023Q3,Digital,Intuit Actuals,111675.25012591199,111675.25012591199,1.0,1.0,111675.25012591199,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-08-01,2023Q3,Digital,Intuit Actuals,389058.94465510326,389058.94465510326,1.0,1.0,389058.94465510326,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-08-01,2023Q3,Digital,Intuit Actuals,45077.5373032578,45077.5373032578,1.0,1.0,45077.5373032578,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-08-01,2023Q3,Social,Intuit Actuals,71353.41186599998,71353.41186599998,1.0,1.0,71353.41186599998,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-08-01,2023Q3,Unclassified,Intuit Actuals,47768.67212699988,47768.67212699988,1.0,1.0,47768.67212699988,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Digital,Intuit Actuals,166449.43273653742,166449.43273653742,1.0,1.0,166449.43273653742,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Digital,Intuit Actuals,42311.3915829857,42311.3915829857,1.0,1.0,42311.3915829857,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Digital,Intuit Actuals,428627.33832584537,428627.33832584537,1.0,1.0,428627.33832584537,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Digital,Intuit Actuals,30135.661441515287,30135.661441515287,1.0,1.0,30135.661441515287,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Display,Intuit Actuals,24700.33242715508,24700.33242715508,1.0,1.0,24700.33242715508,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Social,Intuit Actuals,151050.61699199988,151050.61699199988,1.0,1.0,151050.61699199988,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Unclassified,Intuit Actuals,53019.45442199979,53019.45442199979,1.0,1.0,53019.45442199979,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-09-01,2023Q3,Video,Intuit Actuals,5038.73384578792,5038.73384578792,1.0,1.0,5038.73384578792,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Digital,Intuit Actuals,364315.7310744468,364315.7310744468,1.0,1.0,364315.7310744468,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Digital,Intuit Actuals,26502.5064511317,26502.5064511317,1.0,1.0,26502.5064511317,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Digital,Intuit Actuals,546734.9760367747,546734.9760367747,1.0,1.0,546734.9760367747,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Digital,Intuit Actuals,35317.649039135096,35317.649039135096,1.0,1.0,35317.649039135096,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Display,Intuit Actuals,40294.952563409286,40294.952563409286,1.0,1.0,40294.952563409286,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Social,Intuit Actuals,301335.9268926035,301335.9268926035,1.0,1.0,301335.9268926035,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Unclassified,Intuit Actuals,38013.810152999795,38013.810152999795,1.0,1.0,38013.810152999795,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-10-01,2023Q4,Video,Intuit Actuals,51398.98297501799,51398.98297501799,1.0,1.0,51398.98297501799,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Digital,Intuit Actuals,186192.8948652661,186192.8948652661,1.0,1.0,186192.8948652661,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Digital,Intuit Actuals,788372.1608552681,788372.1608552681,1.0,1.0,788372.1608552681,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Digital,Intuit Actuals,32106.1293073422,32106.1293073422,1.0,1.0,32106.1293073422,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Display,Intuit Actuals,54289.08133412379,54289.08133412379,1.0,1.0,54289.08133412379,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Social,Intuit Actuals,229736.08680000002,229736.08680000002,1.0,1.0,229736.08680000002,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Unclassified,Intuit Actuals,2250.261914999998,2250.261914999998,1.0,1.0,2250.261914999998,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-11-01,2023Q4,Video,Intuit Actuals,72253.26957255272,72253.26957255272,1.0,1.0,72253.26957255272,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Digital,Intuit Actuals,201752.4023516661,201752.4023516661,1.0,1.0,201752.4023516661,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Digital,Intuit Actuals,643581.1572559988,643581.1572559988,1.0,1.0,643581.1572559988,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Digital,Intuit Actuals,17937.6330459348,17937.6330459348,1.0,1.0,17937.6330459348,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Display,Intuit Actuals,28978.144192435695,28978.144192435695,1.0,1.0,28978.144192435695,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Social,Intuit Actuals,88371.61959315359,88371.61959315359,1.0,1.0,88371.61959315359,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Unclassified,Intuit Actuals,12210.156453,12210.156453,1.0,1.0,12210.156453,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2023-12-01,2023Q4,Video,Intuit Actuals,143070.98232822778,143070.98232822778,1.0,1.0,143070.98232822778,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Digital,Intuit Actuals,430499.891807294,430499.891807294,1.0,1.0,430499.891807294,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Digital,Intuit Actuals,1118151.755858,1118151.755858,1.0,1.0,1118151.755858,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Digital,Intuit Actuals,48743.919268651196,48743.919268651196,1.0,1.0,48743.919268651196,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Display,Intuit Actuals,66170.7711868575,66170.7711868575,1.0,1.0,66170.7711868575,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Social,Intuit Actuals,488979.7878653027,488979.7878653027,1.0,1.0,488979.7878653027,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Unclassified,Intuit Actuals,10089.843488999999,10089.843488999999,1.0,1.0,10089.843488999999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-01-01,2024Q1,Video,Intuit Actuals,176229.80705804762,176229.80705804762,1.0,1.0,176229.80705804762,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Digital,Intuit Actuals,433492.65045057156,433492.65045057156,1.0,1.0,433492.65045057156,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Digital,Intuit Actuals,716700.87179699,716700.87179699,1.0,1.0,716700.87179699,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Digital,Intuit Actuals,45668.3049508521,45668.3049508521,1.0,1.0,45668.3049508521,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Display,Intuit Actuals,54688.9109910577,54688.9109910577,1.0,1.0,54688.9109910577,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Social,Intuit Actuals,395400.49863728357,395400.49863728357,1.0,1.0,395400.49863728357,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Unclassified,Intuit Actuals,516.368325,516.368325,1.0,1.0,516.368325,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-02-01,2024Q1,Video,Intuit Actuals,202204.8324705585,202204.8324705585,1.0,1.0,202204.8324705585,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Digital,Intuit Actuals,681337.3667449947,681337.3667449947,1.0,1.0,681337.3667449947,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Digital,Intuit Actuals,1408564.031742508,1408564.031742508,1.0,1.0,1408564.031742508,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Digital,Intuit Actuals,108181.6935952434,108181.6935952434,1.0,1.0,108181.6935952434,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Display,Intuit Actuals,74610.5798206693,74610.5798206693,1.0,1.0,74610.5798206693,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Social,Intuit Actuals,617053.7451484626,617053.7451484626,1.0,1.0,617053.7451484626,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Unclassified,Intuit Actuals,1680.620039999999,1680.620039999999,1.0,1.0,1680.620039999999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Video,Intuit Actuals,34808.28848812844,34808.28848812844,1.0,1.0,34808.28848812844,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-03-01,2024Q1,Video,Intuit Actuals,169767.6654013367,169767.6654013367,1.0,1.0,169767.6654013367,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Digital,Intuit Actuals,528165.8658531508,528165.8658531508,1.0,1.0,528165.8658531508,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Digital,Intuit Actuals,749197.3469556678,749197.3469556678,1.0,1.0,749197.3469556678,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Digital,Intuit Actuals,148148.3916943041,148148.3916943041,1.0,1.0,148148.3916943041,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Display,Intuit Actuals,44313.56199253609,44313.56199253609,1.0,1.0,44313.56199253609,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Social,Intuit Actuals,597950.833695821,597950.833695821,1.0,1.0,597950.833695821,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Unclassified,Intuit Actuals,1687.706063999999,1687.706063999999,1.0,1.0,1687.706063999999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Video,Intuit Actuals,33132.83768855949,33132.83768855949,1.0,1.0,33132.83768855949,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-04-01,2024Q2,Video,Intuit Actuals,96537.90337502492,96537.90337502492,1.0,1.0,96537.90337502492,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Digital,Intuit Actuals,190098.8215048457,190098.8215048457,1.0,1.0,190098.8215048457,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Digital,Intuit Actuals,502520.6110330847,502520.6110330847,1.0,1.0,502520.6110330847,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Digital,Intuit Actuals,47283.0139381017,47283.0139381017,1.0,1.0,47283.0139381017,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Display,Intuit Actuals,9081.95594492019,9081.95594492019,1.0,1.0,9081.95594492019,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Social,Intuit Actuals,107915.3573215674,107915.3573215674,1.0,1.0,107915.3573215674,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-05-01,2024Q2,Unclassified,Intuit Actuals,2712.419589,2712.419589,1.0,1.0,2712.419589,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Digital,Intuit Actuals,765452.1490699104,765452.1490699104,1.0,1.0,765452.1490699104,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Digital,Intuit Actuals,1338474.622108581,1338474.622108581,1.0,1.0,1338474.622108581,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Digital,Intuit Actuals,52015.9642295106,52015.9642295106,1.0,1.0,52015.9642295106,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Display,Intuit Actuals,2323.3904551211995,2323.3904551211995,1.0,1.0,2323.3904551211995,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Social,Intuit Actuals,478399.7652719998,478399.7652719998,1.0,1.0,478399.7652719998,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Unclassified,Intuit Actuals,20776.607477999984,20776.607477999984,1.0,1.0,20776.607477999984,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-06-01,2024Q2,Video,Intuit Actuals,42245.240103495,42245.240103495,1.0,1.0,42245.240103495,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Digital,Intuit Actuals,985477.2256911874,985477.2256911874,1.0,1.0,985477.2256911874,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Digital,Intuit Actuals,280529.0094119194,280529.0094119194,1.0,1.0,280529.0094119194,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Digital,Intuit Actuals,1164822.2182970224,1164822.2182970224,1.0,1.0,1164822.2182970224,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Digital,Intuit Actuals,158844.54402873208,158844.54402873208,1.0,1.0,158844.54402873208,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Display,Intuit Actuals,50662.407234271,50662.407234271,1.0,1.0,50662.407234271,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Social,Intuit Actuals,981911.9449389996,981911.9449389996,1.0,1.0,981911.9449389996,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Unclassified,Intuit Actuals,12974.899410999999,12974.899410999999,1.0,1.0,12974.899410999999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Video,Intuit Actuals,77134.75059211857,77134.75059211857,1.0,1.0,77134.75059211857,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-07-01,2024Q3,Video,Intuit Actuals,276140.3450948801,276140.3450948801,1.0,1.0,276140.3450948801,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Digital,Intuit Actuals,176066.10008844308,176066.10008844308,1.0,1.0,176066.10008844308,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Digital,Intuit Actuals,13477.547882673589,13477.547882673589,1.0,1.0,13477.547882673589,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Digital,Intuit Actuals,541875.3085838407,541875.3085838407,1.0,1.0,541875.3085838407,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Digital,Intuit Actuals,8875.616036931999,8875.616036931999,1.0,1.0,8875.616036931999,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Display,Intuit Actuals,21237.5785324936,21237.5785324936,1.0,1.0,21237.5785324936,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Social,Intuit Actuals,142616.94324,142616.94324,1.0,1.0,142616.94324,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Unclassified,Intuit Actuals,1954.253415999998,1954.253415999998,1.0,1.0,1954.253415999998,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Video,Intuit Actuals,30080.58070191278,30080.58070191278,1.0,1.0,30080.58070191278,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-08-01,2024Q3,Video,Intuit Actuals,135641.0870477965,135641.0870477965,1.0,1.0,135641.0870477965,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Digital,Intuit Actuals,219872.11549311172,219872.11549311172,1.0,1.0,219872.11549311172,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Digital,Intuit Actuals,28320.2021546272,28320.2021546272,1.0,1.0,28320.2021546272,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Digital,Intuit Actuals,441373.85443597916,441373.85443597916,1.0,1.0,441373.85443597916,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Digital,Intuit Actuals,18474.7207600416,18474.7207600416,1.0,1.0,18474.7207600416,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Display,Intuit Actuals,47489.96117478152,47489.96117478152,1.0,1.0,47489.96117478152,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Social,Intuit Actuals,155545.2987582552,155545.2987582552,1.0,1.0,155545.2987582552,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Unclassified,Intuit Actuals,3195.435936,3195.435936,1.0,1.0,3195.435936,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Video,Intuit Actuals,20545.3540264017,20545.3540264017,1.0,1.0,20545.3540264017,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-09-01,2024Q3,Video,Intuit Actuals,125922.11075973258,125922.11075973258,1.0,1.0,125922.11075973258,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Digital,Intuit Actuals,214252.96905034082,214252.96905034082,1.0,1.0,214252.96905034082,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Digital,Intuit Actuals,24018.230153275188,24018.230153275188,1.0,1.0,24018.230153275188,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Digital,Intuit Actuals,467423.2624271455,467423.2624271455,1.0,1.0,467423.2624271455,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Digital,Intuit Actuals,38138.9073102488,38138.9073102488,1.0,1.0,38138.9073102488,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Display,Intuit Actuals,47739.96971817913,47739.96971817913,1.0,1.0,47739.96971817913,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Social,Intuit Actuals,274491.39374255843,274491.39374255843,1.0,1.0,274491.39374255843,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Unclassified,Intuit Actuals,7327.74001599999,7327.74001599999,1.0,1.0,7327.74001599999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Video,Intuit Actuals,19727.14114449074,19727.14114449074,1.0,1.0,19727.14114449074,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-10-01,2024Q4,Video,Intuit Actuals,167825.19899892987,167825.19899892987,1.0,1.0,167825.19899892987,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Digital,Intuit Actuals,178889.2381331024,178889.2381331024,1.0,1.0,178889.2381331024,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Digital,Intuit Actuals,15131.6874162632,15131.6874162632,1.0,1.0,15131.6874162632,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Digital,Intuit Actuals,432619.1639769668,432619.1639769668,1.0,1.0,432619.1639769668,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Digital,Intuit Actuals,34037.475777778396,34037.475777778396,1.0,1.0,34037.475777778396,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Display,Intuit Actuals,55413.92509058546,55413.92509058546,1.0,1.0,55413.92509058546,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Social,Intuit Actuals,165898.66198149027,165898.66198149027,1.0,1.0,165898.66198149027,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Unclassified,Intuit Actuals,9002.36257599999,9002.36257599999,1.0,1.0,9002.36257599999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Video,Intuit Actuals,47856.16256908649,47856.16256908649,1.0,1.0,47856.16256908649,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-11-01,2024Q4,Video,Intuit Actuals,161178.4800662974,161178.4800662974,1.0,1.0,161178.4800662974,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Digital,Intuit Actuals,168511.9504916711,168511.9504916711,1.0,1.0,168511.9504916711,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Digital,Intuit Actuals,38417.849658026396,38417.849658026396,1.0,1.0,38417.849658026396,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Digital,Intuit Actuals,612102.6648173009,612102.6648173009,1.0,1.0,612102.6648173009,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Digital,Intuit Actuals,37294.9335355232,37294.9335355232,1.0,1.0,37294.9335355232,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Display,Intuit Actuals,61165.05983247263,61165.05983247263,1.0,1.0,61165.05983247263,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Social,Intuit Actuals,220847.79668406627,220847.79668406627,1.0,1.0,220847.79668406627,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Unclassified,Intuit Actuals,4447.08324,4447.08324,1.0,1.0,4447.08324,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Video,Intuit Actuals,42880.40437929194,42880.40437929194,1.0,1.0,42880.40437929194,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2024-12-01,2024Q4,Video,Intuit Actuals,187797.08303321822,187797.08303321822,1.0,1.0,187797.08303321822,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Digital,Intuit Actuals,451575.40949399443,451575.40949399443,1.0,1.0,451575.40949399443,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Digital,Intuit Actuals,18368.6424522056,18368.6424522056,1.0,1.0,18368.6424522056,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Digital,Intuit Actuals,1129146.7774034087,1129146.7774034087,1.0,1.0,1129146.7774034087,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Digital,Intuit Actuals,75884.607829748,75884.607829748,1.0,1.0,75884.607829748,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Display,Intuit Actuals,70814.97675783183,70814.97675783183,1.0,1.0,70814.97675783183,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Social,Intuit Actuals,852753.4360894485,852753.4360894485,1.0,1.0,852753.4360894485,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Unclassified,Intuit Actuals,11220.02257599999,11220.02257599999,1.0,1.0,11220.02257599999,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Video,Intuit Actuals,68797.19800091554,68797.19800091554,1.0,1.0,68797.19800091554,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-01-01,2025Q1,Video,Intuit Actuals,172228.1818848759,172228.1818848759,1.0,1.0,172228.1818848759,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Digital,Intuit Actuals,239984.49475085438,239984.49475085438,1.0,1.0,239984.49475085438,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Digital,Intuit Actuals,454496.1190827128,454496.1190827128,1.0,1.0,454496.1190827128,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Digital,Intuit Actuals,30083.682392464798,30083.682392464798,1.0,1.0,30083.682392464798,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Display,Intuit Actuals,30147.54045399995,30147.54045399995,1.0,1.0,30147.54045399995,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Social,Intuit Actuals,185479.0833285504,185479.0833285504,1.0,1.0,185479.0833285504,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Unclassified,Intuit Actuals,8241.878752,8241.878752,1.0,1.0,8241.878752,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Video,Intuit Actuals,162321.33148733282,162321.33148733282,1.0,1.0,162321.33148733282,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-02-01,2025Q1,Video,Intuit Actuals,285361.76891347754,285361.76891347754,1.0,1.0,285361.76891347754,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Digital,Intuit Actuals,504004.3792626927,504004.3792626927,1.0,1.0,504004.3792626927,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Digital,Intuit Actuals,1341552.0133183675,1341552.0133183675,1.0,1.0,1341552.0133183675,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Digital,Intuit Actuals,77334.1641002759,77334.1641002759,1.0,1.0,77334.1641002759,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Display,Intuit Actuals,74081.33709299962,74081.33709299962,1.0,1.0,74081.33709299962,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Social,Intuit Actuals,713111.9161059997,713111.9161059997,1.0,1.0,713111.9161059997,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Unclassified,Intuit Actuals,11777.792992,11777.792992,1.0,1.0,11777.792992,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Video,Intuit Actuals,252764.7669938644,252764.7669938644,1.0,1.0,252764.7669938644,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-03-01,2025Q1,Video,Intuit Actuals,234719.34131672536,234719.34131672536,1.0,1.0,234719.34131672536,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Digital,Intuit Actuals,595476.3434597678,595476.3434597678,1.0,1.0,595476.3434597678,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Digital,Intuit Actuals,685639.9855187319,685639.9855187319,1.0,1.0,685639.9855187319,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Digital,Intuit Actuals,79819.8481815096,79819.8481815096,1.0,1.0,79819.8481815096,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Display,Intuit Actuals,72833.98849799963,72833.98849799963,1.0,1.0,72833.98849799963,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Social,Intuit Actuals,1048850.944237543,1048850.944237543,1.0,1.0,1048850.944237543,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Unclassified,Intuit Actuals,2103.588712,2103.588712,1.0,1.0,2103.588712,Intuit invoiced actual - no correction applies,invoiced,,,null
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Video,Intuit Actuals,445826.2506133366,445826.2506133366,1.0,1.0,445826.2506133366,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-04-01,2025Q2,Video,Intuit Actuals,134336.49432201093,134336.49432201093,1.0,1.0,134336.49432201093,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Digital,Intuit Actuals,311129.968934232,311129.968934232,1.0,1.0,311129.968934232,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Digital,Intuit Actuals,445764.6477935508,445764.6477935508,1.0,1.0,445764.6477935508,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Digital,Intuit Actuals,78569.0053429952,78569.0053429952,1.0,1.0,78569.0053429952,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Display,Intuit Actuals,58617.933940073155,58617.933940073155,1.0,1.0,58617.933940073155,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Social,Intuit Actuals,448386.764117,448386.764117,1.0,1.0,448386.764117,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Video,Intuit Actuals,203352.0365820619,203352.0365820619,1.0,1.0,203352.0365820619,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-05-01,2025Q2,Video,Intuit Actuals,127537.9925322902,127537.9925322902,1.0,1.0,127537.9925322902,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Digital,Intuit Actuals,453982.4969716424,453982.4969716424,1.0,1.0,453982.4969716424,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Digital,Intuit Actuals,917118.8576636768,917118.8576636768,1.0,1.0,917118.8576636768,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Digital,Intuit Actuals,76146.7096248824,76146.7096248824,1.0,1.0,76146.7096248824,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Display,Intuit Actuals,44802.78943479918,44802.78943479918,1.0,1.0,44802.78943479918,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Social,Intuit Actuals,624450.6840259999,624450.6840259999,1.0,1.0,624450.6840259999,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Video,Intuit Actuals,251140.28576322348,251140.28576322348,1.0,1.0,251140.28576322348,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Video,Intuit Actuals,28.21239999999999,28.21239999999999,1.0,1.0,28.21239999999999,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-06-01,2025Q2,Video,Intuit Actuals,246718.7517524113,246718.7517524113,1.0,1.0,246718.7517524113,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Digital,Intuit Actuals,465890.2877286908,465890.2877286908,1.0,1.0,465890.2877286908,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Digital,Intuit Actuals,950587.4264210333,950587.4264210333,1.0,1.0,950587.4264210333,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Digital,Intuit Actuals,82827.864480333,82827.864480333,1.0,1.0,82827.864480333,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Display,Intuit Actuals,48516.391558854004,48516.391558854004,1.0,1.0,48516.391558854004,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Social,Intuit Actuals,1114339.0246441364,1114339.0246441364,1.0,1.0,1114339.0246441364,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Video,Intuit Actuals,485240.57180280227,485240.57180280227,1.0,1.0,485240.57180280227,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Video,Intuit Actuals,44.6046351918999,44.6046351918999,1.0,1.0,44.6046351918999,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-07-01,2025Q3,Video,Intuit Actuals,309009.9333451928,309009.9333451928,1.0,1.0,309009.9333451928,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Digital,Intuit Actuals,284371.4325304586,284371.4325304586,1.0,1.0,284371.4325304586,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Digital,Intuit Actuals,25692.2396132514,25692.2396132514,1.0,1.0,25692.2396132514,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Digital,Intuit Actuals,565775.9059092308,565775.9059092308,1.0,1.0,565775.9059092308,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Digital,Intuit Actuals,34887.46685756426,34887.46685756426,1.0,1.0,34887.46685756426,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Display,Intuit Actuals,43269.777863654366,43269.777863654366,1.0,1.0,43269.777863654366,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Social,Intuit Actuals,203149.97810999985,203149.97810999985,1.0,1.0,203149.97810999985,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Video,Intuit Actuals,59061.9367886646,59061.9367886646,1.0,1.0,59061.9367886646,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Video,Intuit Actuals,17.36406134609998,17.36406134609998,1.0,1.0,17.36406134609998,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-08-01,2025Q3,Video,Intuit Actuals,80115.09633999049,80115.09633999049,1.0,1.0,80115.09633999049,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Digital,Intuit Actuals,168650.66095414292,168650.66095414292,1.0,1.0,168650.66095414292,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Digital,Intuit Actuals,18779.921032026,18779.921032026,1.0,1.0,18779.921032026,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Digital,Intuit Actuals,516920.2230867187,516920.2230867187,1.0,1.0,516920.2230867187,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Digital,Intuit Actuals,28756.82643242219,28756.82643242219,1.0,1.0,28756.82643242219,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Display,Intuit Actuals,49117.44522151095,49117.44522151095,1.0,1.0,49117.44522151095,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Social,Intuit Actuals,305800.9413789994,305800.9413789994,1.0,1.0,305800.9413789994,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Video,Intuit Actuals,49925.4882338247,49925.4882338247,1.0,1.0,49925.4882338247,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Video,Intuit Actuals,6.47532126359998,6.47532126359998,1.0,1.0,6.47532126359998,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-09-01,2025Q3,Video,Intuit Actuals,79914.2093808931,79914.2093808931,1.0,1.0,79914.2093808931,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Digital,Intuit Actuals,276404.6303042617,276404.6303042617,1.0,1.0,276404.6303042617,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Digital,Intuit Actuals,15309.52324648318,15309.52324648318,1.0,1.0,15309.52324648318,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Digital,Intuit Actuals,718820.166511358,718820.166511358,1.0,1.0,718820.166511358,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Digital,Intuit Actuals,43607.69356133818,43607.69356133818,1.0,1.0,43607.69356133818,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Display,Intuit Actuals,103612.10134210733,103612.10134210733,1.0,1.0,103612.10134210733,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Social,Intuit Actuals,636556.2092409993,636556.2092409993,1.0,1.0,636556.2092409993,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Video,Intuit Actuals,48099.0693634311,48099.0693634311,1.0,1.0,48099.0693634311,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Video,Intuit Actuals,6403.7668583868,6403.7668583868,1.0,1.0,6403.7668583868,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-10-01,2025Q4,Video,Intuit Actuals,145178.14813530378,145178.14813530378,1.0,1.0,145178.14813530378,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Digital,Intuit Actuals,343419.6152642678,343419.6152642678,1.0,1.0,343419.6152642678,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Digital,Intuit Actuals,35425.39275196109,35425.39275196109,1.0,1.0,35425.39275196109,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Digital,Intuit Actuals,845237.3845003856,845237.3845003856,1.0,1.0,845237.3845003856,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Digital,Intuit Actuals,46208.01884547029,46208.01884547029,1.0,1.0,46208.01884547029,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Display,Intuit Actuals,91631.02364417595,91631.02364417595,1.0,1.0,91631.02364417595,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Social,Intuit Actuals,925293.7171653869,925293.7171653869,1.0,1.0,925293.7171653869,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Video,Intuit Actuals,122653.69633095169,122653.69633095169,1.0,1.0,122653.69633095169,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Video,Intuit Actuals,16055.94762507747,16055.94762507747,1.0,1.0,16055.94762507747,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-11-01,2025Q4,Video,Intuit Actuals,204520.9822990927,204520.9822990927,1.0,1.0,204520.9822990927,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Digital,Intuit Actuals,62897.4986723685,62897.4986723685,1.0,1.0,62897.4986723685,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Digital,Intuit Actuals,24877.20583807619,24877.20583807619,1.0,1.0,24877.20583807619,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Digital,Intuit Actuals,388294.65210029646,388294.65210029646,1.0,1.0,388294.65210029646,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Digital,Intuit Actuals,37456.88807734009,37456.88807734009,1.0,1.0,37456.88807734009,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Display,Intuit Actuals,70874.38636765609,70874.38636765609,1.0,1.0,70874.38636765609,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Social,Intuit Actuals,342708.7493710163,342708.7493710163,1.0,1.0,342708.7493710163,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Video,Intuit Actuals,102517.26641596419,102517.26641596419,1.0,1.0,102517.26641596419,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Video,Intuit Actuals,4003.75774472309,4003.75774472309,1.0,1.0,4003.75774472309,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2025-12-01,2025Q4,Video,Intuit Actuals,173260.1899099554,173260.1899099554,1.0,1.0,173260.1899099554,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Digital,Intuit Actuals,257819.0724105842,257819.0724105842,1.0,1.0,257819.0724105842,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Digital,Intuit Actuals,21827.890451031002,21827.890451031002,1.0,1.0,21827.890451031002,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Digital,Intuit Actuals,1260153.3525363728,1260153.3525363728,1.0,1.0,1260153.3525363728,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Digital,Intuit Actuals,119064.5731091224,119064.5731091224,1.0,1.0,119064.5731091224,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Display,Intuit Actuals,67809.8174387549,67809.8174387549,1.0,1.0,67809.8174387549,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Social,Intuit Actuals,771908.2314530003,771908.2314530003,1.0,1.0,771908.2314530003,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Video,Intuit Actuals,83379.18161723827,83379.18161723827,1.0,1.0,83379.18161723827,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Video,Intuit Actuals,6875.4672874628895,6875.4672874628895,1.0,1.0,6875.4672874628895,Intuit invoiced actual - no correction applies,invoiced,,,Video OLV
+QuickBooks,QuickBooks,2026-01-01,2026Q1,Video,Intuit Actuals,154898.5479277151,154898.5479277151,1.0,1.0,154898.5479277151,Intuit invoiced actual - no correction applies,invoiced,,,Youtube
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Digital,Intuit Actuals,136547.7506837363,136547.7506837363,1.0,1.0,136547.7506837363,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Digital,Intuit Actuals,44195.2884061898,44195.2884061898,1.0,1.0,44195.2884061898,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Digital,Intuit Actuals,511647.2551310202,511647.2551310202,1.0,1.0,511647.2551310202,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Digital,Intuit Actuals,31692.75821505777,31692.75821505777,1.0,1.0,31692.75821505777,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Display,Intuit Actuals,116213.83519742418,116213.83519742418,1.0,1.0,116213.83519742418,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Social,Intuit Actuals,225964.5269489998,225964.5269489998,1.0,1.0,225964.5269489998,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2026-02-01,2026Q1,Video,Intuit Actuals,0.317016,0.317016,1.0,1.0,0.317016,Intuit invoiced actual - no correction applies,invoiced,,,OLV
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Digital,Intuit Actuals,200974.1254758676,200974.1254758676,1.0,1.0,200974.1254758676,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Digital,Intuit Actuals,80780.32976432092,80780.32976432092,1.0,1.0,80780.32976432092,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Digital,Intuit Actuals,1268436.2671177073,1268436.2671177073,1.0,1.0,1268436.2671177073,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Digital,Intuit Actuals,23107.6953538977,23107.6953538977,1.0,1.0,23107.6953538977,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Display,Intuit Actuals,350535.3257339661,350535.3257339661,1.0,1.0,350535.3257339661,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2026-03-01,2026Q1,Social,Intuit Actuals,499755.15720922186,499755.15720922186,1.0,1.0,499755.15720922186,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Digital,Intuit Actuals,94821.9412204658,94821.9412204658,1.0,1.0,94821.9412204658,Intuit invoiced actual - no correction applies,invoiced,,,App Search
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Digital,Intuit Actuals,11604.91716085858,11604.91716085858,1.0,1.0,11604.91716085858,Intuit invoiced actual - no correction applies,invoiced,,,Demand Gen
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Digital,Intuit Actuals,961906.8650771747,961906.8650771747,1.0,1.0,961906.8650771747,Intuit invoiced actual - no correction applies,invoiced,,,Paid Search
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Digital,Intuit Actuals,20300.3477216988,20300.3477216988,1.0,1.0,20300.3477216988,Intuit invoiced actual - no correction applies,invoiced,,,PerformanceMax
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Display,Intuit Actuals,99957.80750381087,99957.80750381087,1.0,1.0,99957.80750381087,Intuit invoiced actual - no correction applies,invoiced,,,Display
+QuickBooks,QuickBooks,2026-04-01,2026Q2,Social,Intuit Actuals,540449.6402471769,540449.6402471769,1.0,1.0,540449.6402471769,Intuit invoiced actual - no correction applies,invoiced,,,Paid Social

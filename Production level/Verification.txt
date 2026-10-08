@@ -1,0 +1,36 @@
+METHOD 2 - ROLLING QUARTERLY FACTOR
+Validation receipt
+
+Run:      2026-10-01 16:46
+Python:   3.11.9   pandas 2.2.3
+Window:   2025-01-01 to 2026-04-30   (derived from the tracker file)
+Factors:  from 2025Q3 onward; first 2 quarters dropped as inert
+Scaling:  SCALE_COMPETITORS = True
+Inputs:
+    Media Activity Template.xlsx
+    Updated Nielsen + AdClarity Spends.csv
+
+----------------------------------------------------------------------
+PASS  stacking conserves total actual spend          $65,251,608
+PASS  unlabelled template column is carried          $421,757 kept as 'Unclassified'
+PASS  adjusted dataset matches tracker schema        15 columns
+PASS  SUM/SUM differs from mean-of-ratios            video 32.2x vs 2,370.7x if averaged
+PASS  blend lies between its two components          20/20 rows
+PASS  credibility rises with tracked volume          worst within-channel rank r = 1.000
+PASS  display and video are capped at Search         12/12 channel-quarters
+PASS  unscaled variant leaves competitors untouched  273/273 competitor rows at tracked level
+INFO  tracker's own corrected column                 Xero $267.7m vs $266.3m (1.006) - reconciles only on the original series
+PASS  QuickBooks search uses invoiced actuals        $18,992,058
+PASS  invoice-only channels reach the adjusted dataset 4 rows, $33,343
+PASS  offline rate-card adjustment applied           TV 0.8164x
+PASS  no negative corrected spend                    0 rows
+PASS  published file has one adjusted column         ADJUSTED_SPEND
+
+13/13 checks passed
+----------------------------------------------------------------------
+
+INFO lines are reported but do not affect the result. See README.md.
+
+Reproduce with:  python "2. Scripts/run_all.py"
+Regenerate this receipt after changing any input or setting.
+Do not circulate figures unless every check passes.
